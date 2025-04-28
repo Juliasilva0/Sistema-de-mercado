@@ -1,0 +1,4 @@
+santa clara,3.59,alimentos 
+nescafe,3.79,alimentos
+sabonete1,2.79,higiene1 
+sabonete2,3.69,higiene2
